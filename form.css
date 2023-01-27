@@ -1,0 +1,25 @@
+.header_form {
+    display: flex;
+    border: solid black;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+table {
+    display: flex;
+    border: solid black;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+td {
+    border: 1px solid black;
+}
+tr {
+    border: 1px solid black;
+}
+th {
+    border: 1px solid black;
+}
